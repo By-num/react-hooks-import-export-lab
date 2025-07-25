@@ -1,4 +1,5 @@
-import "@testing-library/jest-dom";
+
+export default About;import "@testing-library/jest-dom";
 import { render } from "@testing-library/react";
 import About from "../components/About";
 

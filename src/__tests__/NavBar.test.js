@@ -1,4 +1,4 @@
-import "@testing-library/jest-dom";
+export default App;import "@testing-library/jest-dom";
 import { render } from "@testing-library/react";
 import NavBar from "../components/NavBar";
 
